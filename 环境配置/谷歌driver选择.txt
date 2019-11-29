@@ -1,0 +1,5 @@
+根据自己的谷歌浏览器版本
+选择合适的chromedriver去替换文件夹下的chromedriver.exe
+
+网址：
+http://npm.taobao.org/mirrors/chromedriver
