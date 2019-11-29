@@ -11,7 +11,7 @@ README
     启动方法：当前文件夹下 cmd命令  输入 python Easy_Ui.py  
 
 -------------------------------------------------------------------------------------
-**等于和预约界面图**   
+**登陆和预约界面图**   
 ![image](https://github.com/HannoKishi/Auto_Appoint_Experiement_Hust/blob/master/img/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)   
 ![image](https://github.com/HannoKishi/Auto_Appoint_Experiement_Hust/blob/master/img/add%E7%95%8C%E9%9D%A2.png)   
 ![image](https://github.com/HannoKishi/Auto_Appoint_Experiement_Hust/blob/master/img/%E9%A2%84%E7%BA%A6%E5%AE%9E%E9%AA%8C%E7%95%8C%E9%9D%A2.png)  
