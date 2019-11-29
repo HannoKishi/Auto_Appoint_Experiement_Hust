@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>icons/Main.png</file>
+    <file>icons/a2_15.png</file>
+    <file>icons/a2_17.png</file>
+    <file>icons/a2_36.png</file>
+    <file>icons/ac1.png</file>
+    <file>icons/ac11.png</file>
+    <file>icons/ac15.png</file>
+    <file>icons/ac39.png</file>
+    <file>icons/ac43.png</file>
+  </qresource>
+</RCC>
